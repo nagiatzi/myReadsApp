@@ -18,4 +18,4 @@ To get started developing right away:
 * Contributions will not be accepted
 
 ## Author
-* nagiatzi - *Creator* - [MyReads-A-Book-Tracking-App - repo](https://github.com/nagiatzi/MyReads.git)
+* nagiatzi - *Creator* - [MyReads-A-Book-Tracking-App - repo](https://github.com/nagiatzi/myReadsApp.git)
